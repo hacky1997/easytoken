@@ -16,7 +16,7 @@ easytoken is an independent Open Source, Natural Language Processing python libr
 This is still in alpha stage so we are planning to add few more feature as tagging and cleaning which will be added by 2020. We are also developing a other Language Processing algorithm for our library.
 
 # Naming:
-The name is just it's purpose \(^-^)/
+The name is just it's purpose  \(^-^)/
 
 # Installation and Implementation:
 To install easytoken follow the steps:<br>
